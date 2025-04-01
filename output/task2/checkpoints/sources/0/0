@@ -1,0 +1,15 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-842ae3ba-96a8-4477-8966-9e8516a12df0-c000.csv","timestamp":1743530335901,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-7b5e4012-32d0-471a-b633-4471a75c62ca-c000.csv","timestamp":1743530336482,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00001-5e7d951e-1c6b-486f-9594-f4a4e34e0f38-c000.csv","timestamp":1743530336502,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-3559f535-8ea5-4db5-926a-93ddb2bab727-c000.csv","timestamp":1743530336838,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-0bec3a06-02a9-4c3b-8be8-7ce34ed87ff6-c000.csv","timestamp":1743530337599,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-90c31760-1d29-4fd7-83e7-ea8e34ab952b-c000.csv","timestamp":1743530338528,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-fe99094d-2ef6-4897-9882-c425f3683e88-c000.csv","timestamp":1743530339527,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-9c8ee1d0-327d-45d1-851f-36d120cf3c1b-c000.csv","timestamp":1743530340534,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-0070bcb5-98ad-488c-948f-360152299638-c000.csv","timestamp":1743530341526,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-869604ee-dffb-4b4f-9bbf-9f179bf21742-c000.csv","timestamp":1743530342544,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-ca75fc95-8905-490a-8f26-605343c0abf4-c000.csv","timestamp":1743530343514,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-ae5375ab-7c3a-440c-9b45-5ae5f872fcd0-c000.csv","timestamp":1743530344482,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-8816c36c-26e3-45a4-b10d-ca5d0cfaac71-c000.csv","timestamp":1743530345536,"batchId":0}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-tarunlagadapati25/output/task1/parsed_data/part-00000-48375287-1700-4798-8adf-5045a620a9d9-c000.csv","timestamp":1743530346504,"batchId":0}
